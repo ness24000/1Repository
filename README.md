@@ -1,2 +1,1 @@
-The geojson file in the repository is satisfactory as it contains all 27 EU countries (the names may differe such as chzequia instead of czheq  republic)
-The jupyter notebook contains the code to plot a population choropleth of Europe (find new suitable data and adapt the code). 
+This is the Project module for Data Processing. To see the final result run the complete Jupyter Notebook app_definitive.ipynb. To see details about the project read Project_Description.pdf. I hope you enjoy the work :).  
